@@ -22,7 +22,7 @@
 3) pip install -r requirements.txt
 4) streamlit run app.py
 
-#Также проект размещен на Hugging Face:
-#https://huggingface.co/spaces/MRuslanR/Convolutional_Video_Booster
+# Также проект размещен на Hugging Face:
+# https://huggingface.co/spaces/MRuslanR/Convolutional_Video_Booster
 
 <img width="1705" alt="Снимок экрана 2025-02-05 в 22 26 19" src="https://github.com/user-attachments/assets/231d9499-022c-4675-9d9d-8e49f72e8652" />
